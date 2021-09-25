@@ -1,0 +1,3 @@
+To get access to the admin panel, just add /admin at the end of the link and enter password: admin. 
+
+After authorization, we recommend you change the default password.
